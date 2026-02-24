@@ -43,6 +43,9 @@ function App() {
           </figure>
         </section>
 
+
+
+
         <section id="projeler">
           <h2>Projelerim</h2>
           <article>
