@@ -23,7 +23,7 @@ Vite + React + TypeScript kullanilarak olusturulmustur.
  npm run dev
  ```
 
- # 📖 Proje Hakkında
+ ## Proje Hakkında
 
 Bu projede aşağıdaki konular uygulamalı olarak gerçekleştirilmiştir:
 
