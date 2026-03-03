@@ -1,7 +1,7 @@
-# Web LAB-1- Hello Project
+# Web LAB-3
 
 ## Hakkinda
-Bu proje, Web Tasarimi ve Programlama dersi LAB-1 kapsaminda
+Bu proje, Web Tasarimi ve Programlama dersi LAB-3 kapsaminda
 Vite + React + TypeScript kullanilarak olusturulmustur.
 
  ## Gelistirici
@@ -23,5 +23,29 @@ Vite + React + TypeScript kullanilarak olusturulmustur.
  npm run dev
  ```
 
+ # 📖 Proje Hakkında
+
+Bu projede aşağıdaki konular uygulamalı olarak gerçekleştirilmiştir:
+
+* ✅ **Design Tokens** — `src/styles/tokens.css` dosyasında `:root` içinde CSS değişkenleri (renk, boşluk, font, gölge)
+* ✅ **Fluid Typography** — `clamp()` fonksiyonu ile media query yazmadan duyarlı font boyutları
+* ✅ **Flexbox Navigasyon** — Mobilde dikey, tablette yatay responsive header & nav
+* ✅ **CSS Grid Proje Kartları** — Mobilde 1 sütun → Tablette 2 → Masaüstünde 3 sütun
+* ✅ **Mobile-First yaklaşım** — Tüm stiller küçük ekrandan büyüğe doğru `min-width` ile genişliyor
+* ✅ **Beceri Etiketleri (Toolbar)** — `flex-wrap` ile sarmalanan etiket listesi
+* ✅ **İletişim Formu** — Responsive, erişilebilir form yapısı
+* ✅ **Focus / A11y** — `:focus-visible` ile tab gezinme korunuyor
+
  ## Ekran Goruntusu
-<img width="1920" height="998" alt="image" src="https://github.com/user-attachments/assets/8b8eb787-adb4-4ef0-91ed-3898ae4a463e" />
+ 
+ ## 📱 Mobil (375px)
+ 
+<img alt="image" src="https://github.com/talhakvk/web-lab-hello/blob/feature/responsive-layout/screenshots/screenshot-mobile.png" />
+
+ ## 📟 Tablet (768px)
+ 
+<img alt="image" src="https://github.com/talhakvk/web-lab-hello/blob/feature/responsive-layout/screenshots/screenshot-tablet.png" />
+
+ ## 🖥️ Masaüstü (1280px)
+ 
+<img alt="image" src="https://github.com/talhakvk/web-lab-hello/blob/feature/responsive-layout/screenshots/screenshot-desktop.png" />
