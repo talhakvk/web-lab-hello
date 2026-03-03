@@ -1,7 +1,7 @@
-# Web LAB-1- Hello Project
+# Web LAB
 
 ## Hakkinda
-Bu proje, Web Tasarimi ve Programlama dersi LAB-1 kapsaminda
+Bu proje, Web Tasarimi ve Programlama dersi LAB kapsaminda
 Vite + React + TypeScript kullanilarak olusturulmustur.
 
  ## Gelistirici
