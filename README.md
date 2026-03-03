@@ -1,7 +1,7 @@
-# Web LAB-1- Hello Project
+# Web LAB
 
 ## Hakkinda
-Bu proje, Web Tasarimi ve Programlama dersi LAB-1 kapsaminda
+Bu proje, Web Tasarimi ve Programlama dersi LAB kapsaminda
 Vite + React + TypeScript kullanilarak olusturulmustur.
 
  ## Gelistirici
@@ -24,4 +24,5 @@ Vite + React + TypeScript kullanilarak olusturulmustur.
  ```
 
  ## Ekran Goruntusu
-<img width="1920" height="998" alt="image" src="https://github.com/user-attachments/assets/8b8eb787-adb4-4ef0-91ed-3898ae4a463e" />
+<img width="1920" height="998" alt="image" src="https://github.com/talhakvk/web-lab-hello/blob/feature/semantic-portfolio/src/images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202026-02-24%20222349.png" />
+
