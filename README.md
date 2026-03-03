@@ -1,7 +1,7 @@
-# Web LAB
+# Web LAB-2
 
 ## Hakkinda
-Bu proje, Web Tasarimi ve Programlama dersi LAB kapsaminda
+Bu proje, Web Tasarimi ve Programlama dersi LAB-2 kapsaminda
 Vite + React + TypeScript kullanilarak olusturulmustur.
 
  ## Gelistirici
